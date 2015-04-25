@@ -1,0 +1,13 @@
+body {
+	font-family: 'Reenie Beanie', cursive;
+	color: #b22; 
+	font-weight: 400;
+}
+
+.title-super {
+	font-size: 90px;
+}
+
+.title-logo {
+	margin-top: 28px;
+}
